@@ -14,7 +14,7 @@ Hamraie, Aimi, and Kelly Fritsch. 2019. “Crip Technoscience Manifesto.” Cata
 
 Nakamura L. 2014. "Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture." American Quarterly 66 (4): 919-941. https://muse.jhu.edu/pub/1/article/563663 
 
-Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807 
+> Seaver N. 2021. "Care and Scale: Decorrelative Ethics in Algorithmic Recommendation." Cultural Anthropology 36 (3): 509-537. https://journal.culanth.org/index.php/ca/article/view/4807 
 
 Star, Susan Leigh. 1999. “The Ethnography of Infrastructure.” American Behavioral Scientist 43 (3): 377–91. https://doi.org/10.1177/00027649921955326. 
 
